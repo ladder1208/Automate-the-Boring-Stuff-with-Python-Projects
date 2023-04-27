@@ -44,7 +44,7 @@ def stars():
     
     By myself I create a list 
     where the number of articles are going to be stored in a for cicle, validating 
-    that the number of articles are going to be created is a number, then show the number of article
+    that the number of articles are going to be create  d is a number, then show the number of article
     you are creating, the the name of the artible and finishing the cicle when you reach the number of articles 
     you give 
     then the articles are deployed at the screen. 
